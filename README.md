@@ -1,4 +1,4 @@
-# cwiRESET
+# CWI RESET
 
 # Modulo 4 Git - Aula 3 Instalação, Configuração e primeiro repositório
 
