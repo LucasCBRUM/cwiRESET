@@ -1,6 +1,7 @@
 # CWI RESET
 
-# Modulo 4 Git - Aula 3 Instalação, Configuração e primeiro repositório
+<h1> Modulo 4 Git - Aula 3 Instalação, Configuração e primeiro repositório 
+<sub> Module 4 Git - Class 3 Install, Configure and first reporistory</sub></h1>
 
 whenever in commands there is something between braces  `{}` 
 is a variable and you can change that to use your values, 
@@ -25,4 +26,4 @@ To transform the repository you created, go into the repository and you need lau
 git init
 ```
 
-Things i do in CWI Reset program 
+## Things i do in CWI Reset program 
